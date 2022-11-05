@@ -2,6 +2,7 @@
 Proyecto individual en C# para Programación 2 | Sistemas informáticos UTN
 
 Es necesario hacer login para poder usarlo
+
 ![image](https://user-images.githubusercontent.com/39609442/200103964-7ee94e7a-e8f0-40b5-8dc6-05b8b0a21607.png)
 
 Sus opciones disponibles son
