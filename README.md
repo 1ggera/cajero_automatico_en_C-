@@ -2,7 +2,7 @@
 Proyecto individual en C# para Programación 2 | Sistemas informáticos UTN
 
 Es necesario hacer login para poder usarlo
-https://github.com/1ggera/cajero_automatico_en_C_sharp/blob/main/images/cajero_automatico_screen1.png
+https://github.com/1ggera/cajero_automatico_en_C_sharp/blob/f80a1b09b6bfac91c973a27333a6d1f54c2a933d/images/cajero_automatico_screen1.png
 
 Sus opciones disponibles son
 https://github.com/1ggera/cajero_automatico_en_C_sharp/blob/main/images/cajero_automatico_screen2.png?raw=true
