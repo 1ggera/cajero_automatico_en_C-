@@ -108,6 +108,7 @@ namespace sist_cajero_auto
 		}
 		void BtnSalirClick(object sender, EventArgs e)
 		{
+			MessageBox.Show("Últimos movimientos: \n ");
 			this.Close();
 			Application.Exit();
 		}
